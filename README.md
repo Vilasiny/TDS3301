@@ -2,8 +2,8 @@
 MMU(Data Mining)- Information related ETL
 
 a.	Talend
-/nb.	Sciptella
-/nc.	Ketl
+b.	Sciptella
+c.	Ketl
 d.	Pentaho – Kettle
 e.	Jaspersoft ETL
 f.	GeoKettle
